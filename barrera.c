@@ -11,7 +11,7 @@ pthread_mutex_t mutex; //=PTHREAD_MUTEX_INITIALIZER;
 int NH=10;
 int cont=0;
 
-
+//semaforos
 void * hilo(void *idH){
    int id=*(int *)idH;
    int a;
