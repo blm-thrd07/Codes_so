@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-
+//ana belem
 
 sem_t barrera;
 pthread_mutex_t mutex; //=PTHREAD_MUTEX_INITIALIZER;
